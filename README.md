@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piyush Gupta
 - 👀 I’m interested in Learning and Exploring new Technologies
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently Working on ReactJS, Python, AWS, MySQL
 - 📫 Reach me at guptapiyush592k@gmail.com
 
 <!---
